@@ -2,4 +2,4 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: click2chg
+      appname: clik2chg
