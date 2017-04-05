@@ -1,6 +1,6 @@
 #test_newtext.py
 
-from c2c import *
+from clik2chg import *
 import unittest
 
 
